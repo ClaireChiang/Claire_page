@@ -6,7 +6,7 @@
 .home {
     width: 100%;
     height: 100vh;
-    background-image: url('heart.jpg');
+    background-image: url('20181011001814.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -14,17 +14,21 @@
     align-items: center;
 }
 .about-me{
-    widths: 100%
+    width: 100%;
     height: 100vh;
-    background-color: ::-moz-range-thumb
+    background-color: rgb(160, 108, 108);
     display: flex;
 }
 .left {
     width: 50%;
-    background-color: rgb(red, green, blue)
-    background-image: url('security-swipe1')
+    background-color: rgb(red, green, blue);
+    background-image: url('security-swipe1.jpg');
 }
 .right {
     width: 50%;
-    background-color: rgb(red, green, blue)
-    background-image: url('security-swipe1')
+    background-color: rgb(red, green, blue);
+    background-image: url('heart.jpg');
+}
+.contact{
+    
+}
