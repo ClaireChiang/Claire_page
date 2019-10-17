@@ -23,6 +23,8 @@
     width: 50%;
     background-color: rgb(red, green, blue);
     background-image: url('Alien.jpg');
+    background-size: cover;
+    background-position: center;
 }
 .right {
     width: 50%;
